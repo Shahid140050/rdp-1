@@ -1,8 +1,0 @@
-{
-  "name": "VPS-HEROKU",
-  "description": "VPS-HEROKU",
-  "repository": "",
-  "logo": "",
-  "keywords": ["VPS", "RDP", "HEROKU", "NOVNC", "FIREFOX", "FREE RDP"],
-  "stack": "container",
- }
